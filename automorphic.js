@@ -7,3 +7,4 @@ function automorphic(number){
 }
 const given_number = 18;
 console.log(automorphic(given_number));
+//branch1

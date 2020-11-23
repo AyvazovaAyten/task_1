@@ -11,4 +11,4 @@ function sameornot(word){
 const given_word = 'AbBa';
 console.log(sameornot(given_word));
 //branch2
-//
+//** */
